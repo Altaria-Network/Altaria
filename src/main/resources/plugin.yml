@@ -1,0 +1,7 @@
+name: Altaria
+version: 1.0
+author: TheMolkaPL
+website: https://github.com/TheMolkaPL
+description: 'Plugin stworzony specjalnie dla Altaria Network!'
+main: pl.themolka.altaria.Altaria
+prefix: 'Altaria'
